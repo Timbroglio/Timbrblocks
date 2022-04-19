@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "color=0": { "model": "timbrblocks:block/lit_plate_block_0"},
+    "color=1": { "model": "timbrblocks:block/lit_plate_block_1"},
+    "color=2": { "model": "timbrblocks:block/lit_plate_block_2"},
+    "color=3": { "model": "timbrblocks:block/lit_plate_block_3"},
+    "color=4": { "model": "timbrblocks:block/lit_plate_block_4"},
+    "color=5": { "model": "timbrblocks:block/lit_plate_block_5"},
+    "color=6": { "model": "timbrblocks:block/lit_plate_block_6"},
+    "color=7": { "model": "timbrblocks:block/lit_plate_block_7"}
+  }
+}
